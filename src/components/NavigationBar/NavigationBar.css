@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&display=swap');
+
+nav{
+    font-family: 'Bagel Fat One', cursive;
+}
+.ic{
+    font-size: 2rem;
+    margin-right: 10px;
+}
+.space{
+    margin: 6px;
+}
